@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597063709141",
+    "firebase_url": "https://notepad-da03c-default-rtdb.firebaseio.com",
+    "project_id": "notepad-da03c",
+    "storage_bucket": "notepad-da03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597063709141:android:ce2f22da030eaec6fd8d5c",
+        "android_client_info": {
+          "package_name": "com.example.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597063709141-lpemkbv0mfk3alm6rf9ph91h2i55qug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvlP_q6POliHmpe3kunu1GKs2tRXV7Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597063709141-lpemkbv0mfk3alm6rf9ph91h2i55qug1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
